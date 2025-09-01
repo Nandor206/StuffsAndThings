@@ -1,0 +1,6 @@
+{
+  "parent": "stuffsandthings:block/poop_block",
+  "textures": {
+    "layer0": "stuffsandthings:item/poop_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "stuffsandthings:block/rosegold_block",
+  "textures": {
+    "layer0": "stuffsandthings:item/rosegold_block"
+  }
+}
